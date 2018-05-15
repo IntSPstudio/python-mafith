@@ -1,1 +1,1 @@
-# python-mafith
+# Mafith
